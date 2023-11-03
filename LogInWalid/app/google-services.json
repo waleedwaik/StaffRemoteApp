@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309664416529",
+    "project_id": "gju-research",
+    "storage_bucket": "gju-research.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309664416529:android:da23506eb6cdefb88fc2b0",
+        "android_client_info": {
+          "package_name": "com.example.loginwalid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVEqJ1lERAGMs3oPjOGL2sKP8-rTRSMz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
